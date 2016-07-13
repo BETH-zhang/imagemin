@@ -1,0 +1,26 @@
+{
+  "name": "imagemin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "img": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BETH-zhang/imagemin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BETH-zhang/imagemin/issues"
+  },
+  "homepage": "https://github.com/BETH-zhang/imagemin#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-image-resize": "^0.9.0",
+    "gulp-imagemin": "^3.0.1",
+    "imagemin-pngquant": "^5.0.0"
+  }
+}
